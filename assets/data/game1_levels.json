@@ -1,0 +1,6 @@
+[
+  {"stage":1, "grid":2, "delta":24, "timeLimit":15},
+  {"stage":2, "grid":3, "delta":22, "timeLimit":14},
+  {"stage":3, "grid":4, "delta":20, "timeLimit":13}
+]
+
